@@ -1,0 +1,11 @@
+node_modules/
+dist/
+out/
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+remotion-cache/
+*.log
+.DS_Store
